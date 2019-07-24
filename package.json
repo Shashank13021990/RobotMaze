@@ -1,0 +1,16 @@
+{
+  "name": "robotmaze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Shashank",
+  "license": "MIT",
+  "homepage": "https://shashank13021990.github.io/robotmaze",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
